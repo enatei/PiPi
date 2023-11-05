@@ -1,0 +1,11 @@
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+Aufgabe1-3/.idea/workspace.xml
+Aufgabe1-3/.idea/workspace.xml
